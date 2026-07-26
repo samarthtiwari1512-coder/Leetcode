@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
@@ -26,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -35,5 +37,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
