@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -73,4 +75,16 @@
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
