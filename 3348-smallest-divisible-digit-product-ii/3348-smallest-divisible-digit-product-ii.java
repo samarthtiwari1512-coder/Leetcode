@@ -75,7 +75,6 @@ class Solution {
             }
         }
 
-        // If no candidate with same length n exists, find the minimal length >= n + 1
         int minDigitsNeeded = getMinDigitsNeeded(c2, c3, c5, c7);
         int targetLen = Math.max(n + 1, minDigitsNeeded);
         return buildSmallestSuffix(c2, c3, c5, c7, targetLen);
