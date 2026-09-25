@@ -6,6 +6,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -145,6 +147,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -221,6 +224,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -230,6 +234,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -315,4 +320,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
