@@ -8,6 +8,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -45,6 +46,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -151,6 +153,7 @@
 | [1386-cinema-seat-allocation](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
