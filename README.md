@@ -51,6 +51,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1872-stone-game-viii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -101,6 +102,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -248,6 +250,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -340,4 +343,12 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samarthtiwari1512-coder/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
